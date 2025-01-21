@@ -1,42 +1,42 @@
 [
-	{
-		"name": "Python",
-		"ring": "adopt",
-		"quadrant": "languages-and-frameworks",
-		"isNew": "TRUE",
-		"status": "new",
-		"description": "Python description"
-	},
-	{
-		"name": "Rust",
-		"ring": "trial",
-		"quadrant": "languages-and-frameworks",
-		"isNew": "TRUE",
-		"status": "new",
-		"description": "Rust description"
-	},
-	{
-		"name": "Pydantic",
-		"ring": "adopt",
-		"quadrant": "Techniques",
-		"isNew": "FALSE",
-		"status": "new",
-		"description": "description"
-	},
-	{
-		"name": "Kubernetes",
-		"ring": "adopt",
-		"quadrant": "Platforms",
-		"isNew": "FALSE",
-		"status": "new",
-		"description": "description"
-	},
-	{
-		"name": "Swagger 2.0",
-		"ring": "trial",
-		"quadrant": "Tools",
-		"isNew": "TRUE",
-		"status": "new",
-		"description": "description"
-	}
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Python description"
+   },
+  {
+    "name": "Rust",
+    "ring": "trial",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Rust description"
+  },
+  {
+    "name": "Pydantic",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "FALSE",
+    "status": "new",
+    "description": "description"
+  },
+  {
+    "name": "Kubernetes",
+    "ring": "adopt",
+    "quadrant": "Platforms",
+    "isNew": "FALSE",
+    "status": "new",
+    "description": "description"
+  },
+  {
+    "name": "Swagger 2.0",
+    "ring": "trial",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "description"
+  }
 ]
