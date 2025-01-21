@@ -3,7 +3,7 @@
 		"name": "Python",
 		"ring": "Adopt",
 		"quadrant": "languages-and-frameworks",
-		"isNew": false,
+		"isNew": "TRUE",
 		"status": "no change",
 		"description": "Python description"
 	},
@@ -11,7 +11,7 @@
 		"name": "Rust",
 		"ring": "Trial",
 		"quadrant": "languages-and-frameworks",
-		"isNew": true,
+		"isNew": "TRUE",
 		"status": "new",
 		"description": "Rust description"
 	},
@@ -19,7 +19,7 @@
 		"name": "Pydantic",
 		"ring": "Adopt",
 		"quadrant": "Techniques",
-		"isNew": false,
+		"isNew": "FALSE",
 		"status": "no change",
 		"description": "description"
 	},
@@ -27,7 +27,7 @@
 		"name": "Kubernetes",
 		"ring": "Adopt",
 		"quadrant": "Platforms",
-		"isNew": false,
+		"isNew": "FALSE",
 		"status": "new",
 		"description": "description"
 	},
@@ -35,7 +35,7 @@
 		"name": "Swagger 2.0",
 		"ring": "Trial",
 		"quadrant": "Tools",
-		"isNew": true,
+		"isNew": "TRUE",
 		"status": "new",
 		"description": "description"
 	}
