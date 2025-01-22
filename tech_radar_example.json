@@ -1,42 +1,242 @@
 [
   {
-    "name": "Python",
-    "ring": "adopt",
-    "quadrant": "languages-and-frameworks",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Python description"
-   },
-  {
-    "name": "Rust",
-    "ring": "trial",
-    "quadrant": "languages-and-frameworks",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Rust description"
-  },
-  {
-    "name": "Pydantic",
+    "name": "pydantic",
     "ring": "adopt",
     "quadrant": "Techniques",
-    "isNew": "FALSE",
-    "status": "new",
-    "description": "description"
-  },
-  {
-    "name": "Kubernetes",
-    "ring": "adopt",
-    "quadrant": "Platforms",
-    "isNew": "FALSE",
-    "status": "new",
-    "description": "description"
-  },
-  {
-    "name": "Swagger 2.0",
-    "ring": "trial",
-    "quadrant": "Tools",
     "isNew": "TRUE",
     "status": "new",
-    "description": "description"
+    "description": "Data validation using Python type hints"
+  },
+  {
+    "name": "sentry-sdk",
+    "ring": "adopt",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Python client for Sentry (https://sentry.io)"
+  },
+  {
+    "name": "tochka-esb-messages",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "No description available"
+  },
+  {
+    "name": "httpx",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "The next generation HTTP client."
+  },
+  {
+    "name": "starlette",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "The little ASGI library that shines."
+  },
+  {
+    "name": "tochka-clients",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "No description available"
+  },
+  {
+    "name": "aiohttp",
+    "ring": "adopt",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Async http client/server framework (asyncio)"
+  },
+  {
+    "name": "alembic",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "A database migration tool for SQLAlchemy."
+  },
+  {
+    "name": "Jinja2",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "A very fast and expressive template engine."
+  },
+  {
+    "name": "prometheus-client",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Python client for the Prometheus monitoring system."
+  },
+  {
+    "name": "SQLAlchemy",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Database Abstraction Library"
+  },
+  {
+    "name": "uvicorn",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "The lightning-fast ASGI server."
+  },
+  {
+    "name": "yarl",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Yet another URL library"
+  },
+  {
+    "name": "openpyxl",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "A Python library to read/write Excel 2010 xlsx/xlsm files"
+  },
+  {
+    "name": "aio-pika",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Wrapper around the aiormq for asyncio and humans"
+  },
+  {
+    "name": "anyio",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "High level compatibility layer for multiple asynchronous event loop implementations"
+  },
+  {
+    "name": "gitlint",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Git commit message linter written in python, checks your commit messages for style."
+  },
+  {
+    "name": "PyJWT",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "JSON Web Token implementation in Python"
+  },
+  {
+    "name": "orjson",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy"
+  },
+  {
+    "name": "pydantic-settings",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Settings management using Pydantic"
+  },
+  {
+    "name": "python-dateutil",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Extensions to the standard Python datetime module"
+  },
+  {
+    "name": "fastapi",
+    "ring": "adopt",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
+  },
+  {
+    "name": "MarkupSafe",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Safely add untrusted strings to HTML/XML markup."
+  },
+  {
+    "name": "APScheduler",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "In-process task scheduler with Cron-like capabilities"
+  },
+  {
+    "name": "pytz",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "World timezone definitions, modern and historical"
+  },
+  {
+    "name": "aioinject",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Async dependency injection library"
+  },
+  {
+    "name": "faststream",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "FastStream: the simplest way to work with a messaging queues"
+  },
+  {
+    "name": "microbootstrap",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Package for bootstrapping new micro-services"
+  },
+  {
+    "name": "prometheus-fastapi-instrumentator",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Instrument your FastAPI app with Prometheus metrics"
+  },
+  {
+    "name": "stamina",
+    "ring": "adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "status": "new",
+    "description": "Production-grade retries made easy."
   }
 ]
