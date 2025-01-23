@@ -8,52 +8,12 @@
     "description": "Data validation using Python type hints"
   },
   {
-    "name": "sentry-sdk",
-    "ring": "adopt",
-    "quadrant": "languages-and-frameworks",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Python client for Sentry (https://sentry.io)"
-  },
-  {
-    "name": "tochka-esb-messages",
+    "name": "SQLAlchemy",
     "ring": "adopt",
     "quadrant": "Techniques",
     "isNew": "TRUE",
     "status": "new",
-    "description": "No description available"
-  },
-  {
-    "name": "httpx",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "The next generation HTTP client."
-  },
-  {
-    "name": "starlette",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "The little ASGI library that shines."
-  },
-  {
-    "name": "tochka-clients",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "No description available"
-  },
-  {
-    "name": "aiohttp",
-    "ring": "adopt",
-    "quadrant": "languages-and-frameworks",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Async http client/server framework (asyncio)"
+    "description": "Database Abstraction Library"
   },
   {
     "name": "alembic",
@@ -72,22 +32,6 @@
     "description": "A very fast and expressive template engine."
   },
   {
-    "name": "prometheus-client",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Python client for the Prometheus monitoring system."
-  },
-  {
-    "name": "SQLAlchemy",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Database Abstraction Library"
-  },
-  {
     "name": "uvicorn",
     "ring": "adopt",
     "quadrant": "Techniques",
@@ -96,76 +40,28 @@
     "description": "The lightning-fast ASGI server."
   },
   {
-    "name": "yarl",
+    "name": "Python 3",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "Yet another URL library"
+    "description": "Основной язык для BI-аналитики и для микросервисов"
   },
   {
-    "name": "openpyxl",
+    "name": "Golang",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "languages-and-frameworks",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "A Python library to read/write Excel 2010 xlsx/xlsm files"
+    "description": "Основной язык для высоконагруженных сервисов"
   },
   {
-    "name": "aio-pika",
+    "name": "aiohttp",
     "ring": "adopt",
-    "quadrant": "Techniques",
+    "quadrant": "languages-and-frameworks",
     "isNew": "TRUE",
     "status": "new",
-    "description": "Wrapper around the aiormq for asyncio and humans"
-  },
-  {
-    "name": "anyio",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "High level compatibility layer for multiple asynchronous event loop implementations"
-  },
-  {
-    "name": "gitlint",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Git commit message linter written in python, checks your commit messages for style."
-  },
-  {
-    "name": "PyJWT",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "JSON Web Token implementation in Python"
-  },
-  {
-    "name": "orjson",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy"
-  },
-  {
-    "name": "pydantic-settings",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Settings management using Pydantic"
-  },
-  {
-    "name": "python-dateutil",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "status": "new",
-    "description": "Extensions to the standard Python datetime module"
+    "description": "Async http client/server framework (asyncio)"
   },
   {
     "name": "fastapi",
@@ -176,67 +72,83 @@
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
   },
   {
-    "name": "MarkupSafe",
+    "name": "Django",
     "ring": "adopt",
-    "quadrant": "Techniques",
+    "quadrant": "languages-and-frameworks",
     "isNew": "TRUE",
     "status": "new",
-    "description": "Safely add untrusted strings to HTML/XML markup."
+    "description": ""
   },
   {
-    "name": "APScheduler",
+    "name": "Sentry",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "platform-and-infrastructure",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "In-process task scheduler with Cron-like capabilities"
+    "description": ""
   },
   {
-    "name": "pytz",
+    "name": "Docker",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "platform-and-infrastructure",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "World timezone definitions, modern and historical"
+    "description": ""
   },
   {
-    "name": "aioinject",
+    "name": "Grafana",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "platform-and-infrastructure",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "Async dependency injection library"
+    "description": ""
   },
   {
-    "name": "faststream",
+    "name": "Kubernetes",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "platform-and-infrastructure",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "FastStream: the simplest way to work with a messaging queues"
+    "description": ""
   },
   {
-    "name": "microbootstrap",
+    "name": "Vault",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "platform-and-infrastructure",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "Package for bootstrapping new micro-services"
+    "description": ""
   },
   {
-    "name": "prometheus-fastapi-instrumentator",
-    "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "name": "Docker Swarm",
+    "ring": "hold",
+    "quadrant": "platform-and-infrastructure",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "Instrument your FastAPI app with Prometheus metrics"
+    "description": ""
   },
   {
-    "name": "stamina",
+    "name": "PostgreSQL",
     "ring": "adopt",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
+    "quadrant": "Data management",
+    "isNew": "FALSE",
     "status": "new",
-    "description": "Production-grade retries made easy."
+    "description": "Основная OLTP СУБД для сервисов Точки"
+  },
+  {
+    "name": "RabbitMQ",
+    "ring": "adopt",
+    "quadrant": "Data management",
+    "isNew": "FALSE",
+    "status": "new",
+    "description": ""
+  },
+  {
+    "name": "Elasticsearch",
+    "ring": "adopt",
+    "quadrant": "Data management",
+    "isNew": "FALSE",
+    "status": "new",
+    "description": "Испольуется в инфраструктуре как движок полнотекстового поиска по логам."
   }
 ]
