@@ -82,7 +82,7 @@
   {
     "name": "Sentry",
     "ring": "adopt",
-    "quadrant": "platform-and-infrastructure",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -90,7 +90,7 @@
   {
     "name": "Docker",
     "ring": "adopt",
-    "quadrant": "platform-and-infrastructure",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -98,7 +98,7 @@
   {
     "name": "Grafana",
     "ring": "adopt",
-    "quadrant": "platform-and-infrastructure",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -106,7 +106,7 @@
   {
     "name": "Kubernetes",
     "ring": "adopt",
-    "quadrant": "platform-and-infrastructure",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -114,7 +114,7 @@
   {
     "name": "Vault",
     "ring": "adopt",
-    "quadrant": "platform-and-infrastructure",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -122,7 +122,7 @@
   {
     "name": "Docker Swarm",
     "ring": "hold",
-    "quadrant": "platform-and-infrastructure",
+    "quadrant": "Platforms",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -130,7 +130,7 @@
   {
     "name": "PostgreSQL",
     "ring": "adopt",
-    "quadrant": "Data management",
+    "quadrant": "Tools DB",
     "isNew": "FALSE",
     "status": "new",
     "description": "Основная OLTP СУБД для сервисов Точки"
@@ -138,7 +138,7 @@
   {
     "name": "RabbitMQ",
     "ring": "adopt",
-    "quadrant": "Data management",
+    "quadrant": "Tools DB",
     "isNew": "FALSE",
     "status": "new",
     "description": ""
@@ -146,7 +146,7 @@
   {
     "name": "Elasticsearch",
     "ring": "adopt",
-    "quadrant": "Data management",
+    "quadrant": "Tools DB",
     "isNew": "FALSE",
     "status": "new",
     "description": "Испольуется в инфраструктуре как движок полнотекстового поиска по логам."
